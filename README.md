@@ -1,4 +1,4 @@
-# machine-learning
+# machine-learning-projects
 ### Predicting Churn Using Random Forests
 
 This project explores customer churn prediction using decision trees and random forests, two powerful machine learning algorithms for classification. The primary objective is to analyze customer behavior and identify patterns that contribute to churn. By predicting churn, businesses can proactively retain at-risk customers and improve customer satisfaction.
